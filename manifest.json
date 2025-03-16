@@ -1,10 +1,10 @@
-  {
+{
 	"lang": "en",
-	"name": "Halu TV",
+	"name": "Raket TV",
 	"scope": "/",
 	"display": "standalone",
 	"start_url": "/",
-	"short_name": "Halu TV",
+	"short_name": "Raket TV",
 	"theme_color": "#000000",
 	"orientation": "portrait",
 	"background_color": "#18191c",
@@ -17,14 +17,14 @@
     },
     "icons": [
         {
-            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Vqe4j0rSn2O59RELRdn9K4J6-UU0EuoNn5s6h6sjnMFkzvnxfsJphUUgy3c79upfsyvlhtZdkbVNAHFsUd5mwIBixT-QDujwJPpedmh8xn60mzWylwMWOJCgt6F8cSRCY8q_NmReJ82HhA2o71eEsvSeTgr0l5dUXMBdp7LzREE5fb3nId_7Pu_3WfQ/s320/IMG_20240818_121729_464.jpg",
+            "src": "https://cdn.jsdelivr.net/gh/Vextotem/raketmeta@main/raket.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Vqe4j0rSn2O59RELRdn9K4J6-UU0EuoNn5s6h6sjnMFkzvnxfsJphUUgy3c79upfsyvlhtZdkbVNAHFsUd5mwIBixT-QDujwJPpedmh8xn60mzWylwMWOJCgt6F8cSRCY8q_NmReJ82HhA2o71eEsvSeTgr0l5dUXMBdp7LzREE5fb3nId_7Pu_3WfQ/s320/IMG_20240818_121729_464.jpg",
+            "src": "https://cdn.jsdelivr.net/gh/Vextotem/raketmeta@main/raket.png",
             "sizes": "256x256",
             "type": "image/png"
-        }	
+        }
     ]
 }
